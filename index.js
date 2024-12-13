@@ -75,7 +75,7 @@ async function showDetails(id) {
 
         document.getElementById("bodyData").innerHTML =
             `
-                <div class="col-md-4 ps-5">
+                <div class="col-md-3">
                     <h3 class="text-white">Details Game</h3>
                 <img src="${data.thumbnail}" width="100%" alt="">
                     </div>
